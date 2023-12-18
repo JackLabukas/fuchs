@@ -1,0 +1,28 @@
+.mainSection {
+  background: linear-gradient(264deg, #a106ef 0%, #ed3f2b 98.54%);
+  height: 800px;
+}
+
+.box1,
+.box2 {
+  width: 800px;
+  height: 600px;
+  background-color: aliceblue;
+  margin: 100px;
+}
+
+.testText {
+  width: 600px;
+  height: 50px;
+  background-color: #000000cf;
+  margin: 40px;
+  font-size: 20px;
+}
+
+.testText1 {
+  width: 600px;
+  height: 50px;
+
+  margin: 40px;
+  font-size: 20px;
+}
