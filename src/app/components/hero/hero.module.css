@@ -1,0 +1,17 @@
+.myHero {
+  background: linear-gradient(256deg, #f11763 39.95%, #f52845 71.58%);
+  height: 380px;
+}
+
+.humanFigure {
+  position: relative;
+  right: 30%;
+  top: 30%;
+  z-index: 1;
+}
+
+.heroBtn {
+  position: relative;
+  right: 30%;
+  color: white;
+}
